@@ -1,3 +1,11 @@
+- [X] Dari darbu
+- [ ] Atpūties
+- [ ] Izdari majasdarbus
+- [ ] Paguli
+
+
+
+
 ``` Java
 SystemPrintln("Hello world!");
 ```
@@ -11,4 +19,5 @@ SystemPrintln("Hello world!");
 ###### Tava mamma zagle
 
 ![Bilde ar kaķīti, meow meow](https://i.jauns.lv/t/2017/05/30/1154591/660x471.jpg?v=1496145201)
+
 
